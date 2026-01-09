@@ -1,0 +1,15 @@
+DEMO VIDEO REFERENCE
+====================
+File: videos/urban_tour_demo.mp4
+Content Match: post_3
+Description: Urban city drone tour at golden hour with music sync
+Required Scenes:
+  - Vertical ascent
+  - Forward glide
+  - Traffic tracking
+  - Dramatic pause
+Duration: 30 seconds
+
+INSTRUCTIONS:
+Replace this demo file with your actual drone footage!
+Follow the scene requirements listed above.

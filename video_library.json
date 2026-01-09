@@ -1,0 +1,44 @@
+{
+  "video_library": {
+    "wildlife": {
+      "description": "Wildlife herd tracking from aerial distance",
+      "required_shots": [
+        "Wide shot of herd from above",
+        "Smooth circular movement",
+        "Horizontal tracking following movement",
+        "Pull back to wide environmental shot"
+      ],
+      "video_files": []
+    },
+    "city_skyline": {
+      "description": "City skyline during blue hour",
+      "required_shots": [
+        "Wide establishing shot of skyline",
+        "Low-angle horizontal tracking",
+        "Golden hour light capture",
+        "Fade out with city lights"
+      ],
+      "video_files": []
+    },
+    "urban_tour": {
+      "description": "Urban city drone tour with music sync",
+      "required_shots": [
+        "Vertical ascent from street level",
+        "Forward glide through buildings",
+        "Tracking shot of moving traffic",
+        "Dramatic pause on landmark"
+      ],
+      "video_files": []
+    },
+    "sunset_drone": {
+      "description": "Epic sunset drone reveal",
+      "required_shots": [
+        "Start close on landscape feature",
+        "Smooth upward reveal",
+        "Wide shot of full sunset",
+        "Cinematic fade to black"
+      ],
+      "video_files": []
+    }
+  }
+}

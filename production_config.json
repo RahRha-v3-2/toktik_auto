@@ -1,0 +1,293 @@
+{
+  "api_configuration": {
+    "google_ai_api_key": "AIzaSyAp5fxFmUKvx_r4pY3fQ_jAyxkupylxwFw",
+    "tiktok_client_key": "sbawb1ufinozx57v7v",
+    "tiktok_client_secret": "8WHOS7bl91hiiFCJKuJy53s6MiXn2nXa",
+    "use_real_apis": true
+  },
+  "content_settings": {
+    "post_frequency": "every_2_days",
+    "content_themes": [
+      "viral drone content",
+      "cinematic drone shots",
+      "aerial photography"
+    ],
+    "auto_hashtags": true,
+    "auto_caption_generation": true
+  },
+  "posting_schedule": [
+    {
+      "post_id": "post_1",
+      "content": {
+        "idea": "VIRAL: Wildlife herd tracking from safe aerial distance",
+        "script": {
+          "opening": "Open with dynamic movement",
+          "movements": [
+            "Smooth glide forward",
+            "Orbital circle around subject",
+            "Horizontal tracking shot"
+          ],
+          "story": "Capture emotion of place",
+          "closing": "Pull back to wide shot",
+          "music": "Ambient electronic",
+          "hashtags": [
+            "#travel",
+            "#drone",
+            "#photography",
+            "#nature"
+          ]
+        },
+        "caption": "\ud83d\ude81 Incredible drone shot! VIRAL: Wildlife herd tracking ... #drone #cinematic",
+        "hashtags": [
+          "#drone",
+          "#dronelife",
+          "#dronephotography",
+          "#aerialphotography",
+          "#dji"
+        ],
+        "status": "ready",
+        "tiktok_caption": "\ud83d\ude81 Incredible drone shot! VIRAL: Wildlife herd tracking ... #drone #cinematic",
+        "optimal_hashtags": [
+          "#drone",
+          "#dronelife",
+          "#dronephotography",
+          "#aerialphotography",
+          "#dji"
+        ],
+        "best_posting_time": "07:15",
+        "content_score": 70
+      },
+      "scheduled_time": "2026-01-08T21:30:01.638652",
+      "status": "scheduled",
+      "has_video": true,
+      "video_path": "videos/content_1.mp4",
+      "video_size": "1.7 MB",
+      "video_duration": "30.0 seconds",
+      "video_format": "1080x1920 @ 30fps"
+    },
+    {
+      "post_id": "post_2",
+      "content": {
+        "idea": "VIRAL: City skyline drone shot during blue hour",
+        "script": {
+          "opening": "Start with wide establishing shot",
+          "movements": [
+            "Horizontal tracking shot",
+            "Horizontal tracking shot",
+            "Smooth glide forward"
+          ],
+          "story": "Reveal hidden beauty",
+          "closing": "Fade to black with logo",
+          "music": "Nature sounds with gentle beat",
+          "hashtags": [
+            "#nature",
+            "#photography",
+            "#cinematic",
+            "#drone"
+          ]
+        },
+        "caption": "\u2728 This view is just breathtaking! #dronephotography #nature",
+        "hashtags": [
+          "#drone",
+          "#dronelife",
+          "#dronephotography",
+          "#aerialphotography",
+          "#dji"
+        ],
+        "status": "ready",
+        "tiktok_caption": "\u2728 This view is just breathtaking! #dronephotography #nature",
+        "optimal_hashtags": [
+          "#drone",
+          "#dronelife",
+          "#dronephotography",
+          "#aerialphotography",
+          "#dji"
+        ],
+        "best_posting_time": "19:15",
+        "content_score": 70
+      },
+      "scheduled_time": "2026-01-10T19:15:01.638652",
+      "status": "scheduled",
+      "has_video": true,
+      "video_path": "videos/content_2.mp4",
+      "video_size": "2.4 MB",
+      "video_duration": "~35 seconds",
+      "video_format": "1080x1920 @ 30fps"
+    },
+    {
+      "post_id": "post_3",
+      "content": {
+        "idea": "VIRAL: Urban city drone tour at golden hour with music sync",
+        "script": {
+          "opening": "Start with wide establishing shot",
+          "movements": [
+            "Vertical ascent reveal",
+            "Smooth glide forward",
+            "Horizontal tracking shot"
+          ],
+          "story": "Reveal hidden beauty",
+          "closing": "End with dramatic pause",
+          "music": "Nature sounds with gentle beat",
+          "hashtags": [
+            "#travel",
+            "#cinematic",
+            "#nature",
+            "#drone"
+          ]
+        },
+        "caption": "\ud83c\udfac cinematic drone magic \u2728 #dji #mavic #drone",
+        "hashtags": [
+          "#drone",
+          "#dronelife",
+          "#dronephotography",
+          "#aerialphotography",
+          "#dji"
+        ],
+        "status": "ready",
+        "tiktok_caption": "\ud83c\udfac cinematic drone magic \u2728 #dji #mavic #drone",
+        "optimal_hashtags": [
+          "#drone",
+          "#dronelife",
+          "#dronephotography",
+          "#aerialphotography",
+          "#dji"
+        ],
+        "best_posting_time": "20:30",
+        "content_score": 65
+      },
+      "scheduled_time": "2026-01-12T21:30:01.638652",
+      "status": "scheduled",
+      "has_video": true,
+      "video_path": "videos/content_3.mp4",
+      "video_size": "2.6 MB",
+      "video_duration": "~40 seconds",
+      "video_format": "1080x1920 @ 30fps"
+    }
+  ],
+  "generated_content": [
+    {
+      "idea": "VIRAL: Wildlife herd tracking from safe aerial distance",
+      "script": {
+        "opening": "Open with dynamic movement",
+        "movements": [
+          "Smooth glide forward",
+          "Orbital circle around subject",
+          "Horizontal tracking shot"
+        ],
+        "story": "Capture emotion of place",
+        "closing": "Pull back to wide shot",
+        "music": "Ambient electronic",
+        "hashtags": [
+          "#travel",
+          "#drone",
+          "#photography",
+          "#nature"
+        ]
+      },
+      "caption": "\ud83d\ude81 Incredible drone shot! VIRAL: Wildlife herd tracking ... #drone #cinematic",
+      "hashtags": [
+        "#drone",
+        "#dronelife",
+        "#dronephotography",
+        "#aerialphotography",
+        "#dji"
+      ],
+      "status": "ready",
+      "tiktok_caption": "\ud83d\ude81 Incredible drone shot! VIRAL: Wildlife herd tracking ... #drone #cinematic",
+      "optimal_hashtags": [
+        "#drone",
+        "#dronelife",
+        "#dronephotography",
+        "#aerialphotography",
+        "#dji"
+      ],
+      "best_posting_time": "07:15",
+      "content_score": 70
+    },
+    {
+      "idea": "VIRAL: City skyline drone shot during blue hour",
+      "script": {
+        "opening": "Start with wide establishing shot",
+        "movements": [
+          "Horizontal tracking shot",
+          "Horizontal tracking shot",
+          "Smooth glide forward"
+        ],
+        "story": "Reveal hidden beauty",
+        "closing": "Fade to black with logo",
+        "music": "Nature sounds with gentle beat",
+        "hashtags": [
+          "#nature",
+          "#photography",
+          "#cinematic",
+          "#drone"
+        ]
+      },
+      "caption": "\u2728 This view is just breathtaking! #dronephotography #nature",
+      "hashtags": [
+        "#drone",
+        "#dronelife",
+        "#dronephotography",
+        "#aerialphotography",
+        "#dji"
+      ],
+      "status": "ready",
+      "tiktok_caption": "\u2728 This view is just breathtaking! #dronephotography #nature",
+      "optimal_hashtags": [
+        "#drone",
+        "#dronelife",
+        "#dronephotography",
+        "#aerialphotography",
+        "#dji"
+      ],
+      "best_posting_time": "19:15",
+      "content_score": 70
+    },
+    {
+      "idea": "VIRAL: Urban city drone tour at golden hour with music sync",
+      "script": {
+        "opening": "Start with wide establishing shot",
+        "movements": [
+          "Vertical ascent reveal",
+          "Smooth glide forward",
+          "Horizontal tracking shot"
+        ],
+        "story": "Reveal hidden beauty",
+        "closing": "End with dramatic pause",
+        "music": "Nature sounds with gentle beat",
+        "hashtags": [
+          "#travel",
+          "#cinematic",
+          "#nature",
+          "#drone"
+        ]
+      },
+      "caption": "\ud83c\udfac cinematic drone magic \u2728 #dji #mavic #drone",
+      "hashtags": [
+        "#drone",
+        "#dronelife",
+        "#dronephotography",
+        "#aerialphotography",
+        "#dji"
+      ],
+      "status": "ready",
+      "tiktok_caption": "\ud83c\udfac cinematic drone magic \u2728 #dji #mavic #drone",
+      "optimal_hashtags": [
+        "#drone",
+        "#dronelife",
+        "#dronephotography",
+        "#aerialphotography",
+        "#dji"
+      ],
+      "best_posting_time": "20:30",
+      "content_score": 65
+    }
+  ],
+  "video_library_stats": {
+    "total_videos": 3,
+    "total_size_mb": 6.7,
+    "ready_to_post": 3,
+    "missing_videos": 0,
+    "all_videos_found": true
+  }
+}

@@ -1,0 +1,15 @@
+DEMO VIDEO REFERENCE
+====================
+File: videos/city_skyline_demo.mp4
+Content Match: post_2
+Description: City skyline drone shot during blue hour
+Required Scenes:
+  - Wide establishing
+  - Horizontal tracking
+  - Light capture
+  - Fade out
+Duration: 40 seconds
+
+INSTRUCTIONS:
+Replace this demo file with your actual drone footage!
+Follow the scene requirements listed above.

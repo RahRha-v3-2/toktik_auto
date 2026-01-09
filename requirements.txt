@@ -1,0 +1,7 @@
+google-genai
+opencv-python
+pillow
+moviepy
+requests
+schedule
+python-dotenv

@@ -1,0 +1,102 @@
+{
+  "queue": [
+    {
+      "id": "content_1767868032_0",
+      "idea": "VIRAL: Harbor and marina drone shots during sunrise",
+      "script": {
+        "opening": "Open with dynamic movement",
+        "movements": [
+          "Smooth glide forward",
+          "Smooth glide forward",
+          "Smooth glide forward"
+        ],
+        "story": "Capture emotion of place",
+        "closing": "Fade to black with logo",
+        "music": "Cinematic orchestral",
+        "hashtags": [
+          "#nature",
+          "#travel",
+          "#drone",
+          "#photography"
+        ]
+      },
+      "caption": "\ud83c\udfac cinematic drone magic \u2728 #dji #mavic #drone",
+      "hashtags": [
+        "#drone",
+        "#dronelife",
+        "#dronephotography",
+        "#aerialphotography",
+        "#dji"
+      ],
+      "status": "scheduled",
+      "created_at": "2026-01-08T04:27:12.878367",
+      "scheduled_for": "2026-01-08T12:30:00.878484"
+    },
+    {
+      "id": "content_1767868032_1",
+      "idea": "VIRAL: Wildlife herd tracking from safe aerial distance",
+      "script": {
+        "opening": "Open with dynamic movement",
+        "movements": [
+          "Smooth glide forward",
+          "Smooth glide forward",
+          "Horizontal tracking shot"
+        ],
+        "story": "Reveal hidden beauty",
+        "closing": "Pull back to wide shot",
+        "music": "Nature sounds with gentle beat",
+        "hashtags": [
+          "#drone",
+          "#travel",
+          "#cinematic",
+          "#nature"
+        ]
+      },
+      "caption": "\ud83c\udfac cinematic drone magic \u2728 #dji #mavic #drone",
+      "hashtags": [
+        "#drone",
+        "#dronelife",
+        "#dronephotography",
+        "#aerialphotography",
+        "#dji"
+      ],
+      "status": "scheduled",
+      "created_at": "2026-01-08T04:27:12.878429",
+      "scheduled_for": "2026-01-09T15:15:00.878513"
+    },
+    {
+      "id": "content_1767868032_2",
+      "idea": "VIRAL: Snow-covered mountain peak drone exploration",
+      "script": {
+        "opening": "Begin with close-up detail",
+        "movements": [
+          "Horizontal tracking shot",
+          "Horizontal tracking shot",
+          "Vertical ascent reveal"
+        ],
+        "story": "Capture emotion of place",
+        "closing": "End with dramatic pause",
+        "music": "Nature sounds with gentle beat",
+        "hashtags": [
+          "#nature",
+          "#cinematic",
+          "#travel",
+          "#photography"
+        ]
+      },
+      "caption": "\u2728 This view is just breathtaking! #dronephotography #nature",
+      "hashtags": [
+        "#drone",
+        "#dronelife",
+        "#dronephotography",
+        "#aerialphotography",
+        "#dji"
+      ],
+      "status": "scheduled",
+      "created_at": "2026-01-08T04:27:12.878460",
+      "scheduled_for": "2026-01-09T19:45:00.878530"
+    }
+  ],
+  "posted": [],
+  "last_updated": "2026-01-08T04:27:12.878545"
+}
